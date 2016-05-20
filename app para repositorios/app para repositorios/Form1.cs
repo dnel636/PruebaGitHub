@@ -16,5 +16,15 @@ namespace app_para_repositorios
         {
             InitializeComponent();
         }
+
+        private void bMensaje_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hola mundo");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
